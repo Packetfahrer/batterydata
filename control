@@ -1,0 +1,10 @@
+Package: com.sticktron.batterydata
+Name: batterydata
+Depends:
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Prints battery data from IOKit
+Maintainer: Sticktron
+Author: Sticktron
+Section: System
+Tag: role::hacker
